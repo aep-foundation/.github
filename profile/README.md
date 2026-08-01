@@ -7,6 +7,12 @@ AEP lets services establish relationships with agents without coupling either pa
 format, or application framework. Its protocol specifications, schemas, examples, test vectors, conformance tooling,
 and reference implementations are under active development.
 
+## Repositories
+
+- [`aep-specs`](https://github.com/aep-foundation/aep-specs) — specifications, schemas, examples, test vectors, and
+  conformance artifacts.
+- [`aep-node`](https://github.com/aep-foundation/aep-node) — TypeScript and Node.js reference implementation.
+
 ## Resources
 
 - [AEP website](https://www.aep.foundation)
