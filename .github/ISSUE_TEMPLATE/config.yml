@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AEP questions and design discussions
+    url: https://github.com/aep-foundation/aep-specs/discussions
+    about: Ask usage, protocol-design, and cross-implementation questions.
