@@ -35,21 +35,26 @@ pays through the payment protocol accepted by the Action endpoint.
 
 ## Start here
 
-| Goal                              | Resource                                                                                       |
-| --------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Learn the protocol                | [AEP documentation](https://www.aep.foundation/)                                               |
-| Read the Internet-Draft           | [AEP Internet-Draft](https://datatracker.ietf.org/doc/draft-kavian-agent-enrollment-protocol/) |
-| Build an Agent or Service         | [Node.js software development kit](https://github.com/aep-foundation/aep-node)                 |
-| Run end-to-end examples           | [Runnable examples](https://github.com/aep-foundation/aep-node/tree/main/examples)             |
-| Use AEP from an Agent or terminal | [InFlow CLI](https://www.inflowcli.ai/)                                                        |
-| Discuss protocol design           | [`aep-specs` Discussions](https://github.com/aep-foundation/aep-specs/discussions)             |
+| Goal                                 | Resource                                                                                       |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Learn the protocol                   | [AEP documentation](https://www.aep.foundation/)                                               |
+| Read the Internet-Draft              | [AEP Internet-Draft](https://datatracker.ietf.org/doc/draft-kavian-agent-enrollment-protocol/) |
+| Build an Agent, Service, or Platform | [AEP software development kits](#repositories)                                                 |
+| Run end-to-end examples              | [Runnable examples](https://github.com/aep-foundation/aep-node/tree/main/examples)             |
+| Use AEP from an Agent or terminal    | [InFlow CLI](https://www.inflowcli.ai/)                                                        |
+| Discuss protocol design              | [`aep-specs` Discussions](https://github.com/aep-foundation/aep-specs/discussions)             |
 
 ## Repositories
 
-| Repository                                                 | Purpose                                                          |
-| ---------------------------------------------------------- | ---------------------------------------------------------------- |
-| [`aep-specs`](https://github.com/aep-foundation/aep-specs) | Specifications, schemas, examples, test vectors, and conformance |
-| [`aep-node`](https://github.com/aep-foundation/aep-node)   | Node.js software development kit and reference implementation    |
+| Repository                                                   | Purpose                                                          |
+| ------------------------------------------------------------ | ---------------------------------------------------------------- |
+| [`aep-specs`](https://github.com/aep-foundation/aep-specs)   | Specifications, schemas, examples, test vectors, and conformance |
+| [`aep-node`](https://github.com/aep-foundation/aep-node)     | Node.js software development kit and reference implementation    |
+| [`aep-go`](https://github.com/aep-foundation/aep-go)         | Go software development kit                                      |
+| [`aep-java`](https://github.com/aep-foundation/aep-java)     | Java software development kit                                    |
+| [`aep-python`](https://github.com/aep-foundation/aep-python) | Python software development kit                                  |
+| [`aep-rust`](https://github.com/aep-foundation/aep-rust)     | Rust software development kit                                    |
 
 Protocol proposals and wire-format discussions belong in `aep-specs`. Implementation bugs and
-integration questions belong in `aep-node`.
+language-specific integration questions belong in the corresponding software development kit
+repository.
