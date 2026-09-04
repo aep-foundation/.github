@@ -35,14 +35,15 @@ pays through the payment protocol accepted by the Action endpoint.
 
 ## Start here
 
-| Goal                                 | Resource                                                                                       |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| Learn the protocol                   | [AEP documentation](https://www.aep.foundation/)                                               |
-| Read the Internet-Draft              | [AEP Internet-Draft](https://datatracker.ietf.org/doc/draft-kavian-agent-enrollment-protocol/) |
-| Build an Agent, Service, or Platform | [AEP software development kits](#repositories)                                                 |
-| Run end-to-end examples              | [Runnable examples](https://github.com/aep-foundation/aep-node/tree/main/examples)             |
-| Use AEP from an Agent or terminal    | [InFlow CLI](https://www.inflowcli.ai/)                                                        |
-| Discuss protocol design              | [`aep-specs` Discussions](https://github.com/aep-foundation/aep-specs/discussions)             |
+| Goal                                 | Resource                                                                                                         |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| Learn the protocol                   | [AEP documentation](https://www.aep.foundation/)                                                                 |
+| Read the Internet-Draft              | [AEP Internet-Draft](https://datatracker.ietf.org/doc/draft-kavian-agent-enrollment-protocol/)                   |
+| Build an Agent, Service, or Platform | [AEP software development kits](#repositories)                                                                   |
+| Compare SDK support                  | [Compatibility, releases, and conformance](https://github.com/aep-foundation/aep-specs/blob/main/SDK_SUPPORT.md) |
+| Run end-to-end examples              | [Runnable examples](https://github.com/aep-foundation/aep-node/tree/main/examples)                               |
+| Use AEP from an Agent or terminal    | [InFlow CLI](https://www.inflowcli.ai/)                                                                          |
+| Discuss protocol design              | [`aep-specs` Discussions](https://github.com/aep-foundation/aep-specs/discussions)                               |
 
 ## Repositories
 
